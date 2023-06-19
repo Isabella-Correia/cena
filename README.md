@@ -1,5 +1,5 @@
 # cena
-1- primeiro criamos um projeto;
+1- primeiro criamos um projeto;<br>
 2- deletamos o  cubo e no lugar colocamos um plano como base do projeto;
 3- logo em seguida pegamos cubos e moldamos para fazer as paredes;
 4- entramos no assets store e baixamos um foguete;
