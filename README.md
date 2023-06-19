@@ -14,4 +14,5 @@
 13- um cubo para fazer o topo da bandeira;
 14- baixamos imagens para dar a nossa bandeira uma textura;
 15- arrumamos a posição do foguete e da bandeira;
-https://drive.google.com/file/d/1tD0mTJPPdg7G5WTAfuCh1vXd4NDjPklV/view?usp=sharing
+
+![Captura de Tela (1)](https://github.com/Isabella-Correia/cena/assets/128486492/0061d59e-d1ee-4da8-bc6e-40b716b8f055)
