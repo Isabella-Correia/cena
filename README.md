@@ -19,16 +19,16 @@
 ![Captura de tela 2023-06-19 090725](https://github.com/Isabella-Correia/cena/assets/128486492/158695d2-35f4-4e60-a80d-a0caf6960407)
 ![Captura de tela 2023-06-19 090919](https://github.com/Isabella-Correia/cena/assets/128486492/c4c75f17-9973-467d-8698-c97c27e860a7)
 1- temos os planetas;
-2- nosso fundo como galaxia;<br>
+2- nosso fundo como galaxia;<br><br><br>
 
 ![Captura de tela 2023-06-19 091004](https://github.com/Isabella-Correia/cena/assets/128486492/41309121-52a4-46ed-9f8c-c2d0826d21f4)
-1-foguete;<br>
+3-foguete;<br><br><br>
 
 ![Captura de tela 2023-06-19 091035](https://github.com/Isabella-Correia/cena/assets/128486492/f8cb4103-bbac-4c3f-a0c8-14071c0c699a)
-1-bandeira de largada;<br>
+4-bandeira de largada;<br><br><br>
 
 ![Captura de tela 2023-06-19 091044](https://github.com/Isabella-Correia/cena/assets/128486492/593c1f7f-01a3-4319-b43d-97f6b4487eeb)
-1- os assets usados;<br>
+5- os assets usados;<br><br><br>
 
 
 
