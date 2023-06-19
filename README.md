@@ -5,7 +5,7 @@
 4- entramos no assets store e baixamos um foguete;
 5- colocamos ele no projeto;
 6- fomos no Gameobejct pegamos esferas para criar nossos panetas;
-7- logo em seguida configuramos nosso foguete para ele poder voar e configuramos para as teclas w,a,d para guiar para qual lado e o espaço para andar
+7- logo em seguida configuramos nosso foguete para ele poder voar e configuramos para as teclas w,a,d,s para guiar para qual lado e o espaço para andar
 8- fomos ao google e baixamos nossas imagens para colocar nas parede e planetas;
 9- aplicamos a onde queriamos;
 10- aplicamos o comando de colisão em todos objetos;
