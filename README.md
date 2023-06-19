@@ -6,15 +6,16 @@
 5- colocamos ele no projeto;<br>
 6- fomos no Gameobejct pegamos esferas para criar nossos panetas;<br>
 7- logo em seguida configuramos nosso foguete para ele poder voar e configuramos para as teclas w,a,d,s para guiar para qual lado e o espaço para andar;<br>
-8- tiramos a gravidade para o foguete poder voar; <br>
-9- fomos ao google e baixamos nossas imagens para colocar nas parede e planetas;<br>
-10- aplicamos a onde queriamos;<br>
-11- aplicamos o comando de colisão em todos objetos;<br>
-12- arrumamos a configuração da camera para ela seguir o foguete;<br>
-13- pagamos um cilidro para fazermos uma bandeira;<br>
-14- um cubo para fazer o topo da bandeira;<br>
-15- baixamos imagens para dar a nossa bandeira uma textura;<br>
-16- arrumamos a posição do foguete e da bandeira;<br>
+8- arumamos a posição da luz;
+9- tiramos a gravidade para o foguete poder voar; <br>
+10- fomos ao google e baixamos nossas imagens para colocar nas parede e planetas;<br>
+11- aplicamos a onde queriamos;<br>
+12- aplicamos o comando de colisão em todos objetos;<br>
+13- arrumamos a configuração da camera para ela seguir o foguete;<br>
+14- pagamos um cilidro para fazermos uma bandeira;<br>
+15- um cubo para fazer o topo da bandeira;<br>
+16- baixamos imagens para dar a nossa bandeira uma textura;<br>
+17- arrumamos a posição do foguete e da bandeira;<br>
 
 ![Captura de tela 2023-06-19 090725](https://github.com/Isabella-Correia/cena/assets/128486492/158695d2-35f4-4e60-a80d-a0caf6960407)
 ![Captura de tela 2023-06-19 090919](https://github.com/Isabella-Correia/cena/assets/128486492/c4c75f17-9973-467d-8698-c97c27e860a7)
